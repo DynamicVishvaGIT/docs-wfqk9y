@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-xi72vs.date-me.pro/sitemap.xml
